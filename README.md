@@ -34,4 +34,4 @@ Once the user sets the alarm, a countdown timer is displayed on the screen.
 When the countdown timer reaches zero, an alarm sound is played to alert the user that the alarm has gone off.
 Conclusion:
 This alarm clock project is a simple yet effective example of how JavaScript can be used to create interactive web pages. It showcases how JavaScript can be used to manipulate the DOM and create dynamic content. The project can be extended by adding new features like the ability to snooze the alarm, or to save alarm settings for future use.
-image  
+https://anuragk-kumar.github.io/Alarm_Clock/
